@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+.screen{
+    display: flex;
+    height: 100vh;
+}
+
+.left-size{
+    flex: 1;
+    height: auto;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+
+}
+
+.left-size img{
+    width: 80%;
+}
+
+.right-size{
+    width: 300px;
+    background-color: aquamarine;
+}
