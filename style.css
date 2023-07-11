@@ -43,3 +43,11 @@ body{
     padding: 8px;
     outline: 0;
 }
+
+.error{
+    font-size: 13px;
+    color: rgb(7, 6, 6);
+    background-color: rgb(205, 130, 130);
+    padding: 4px;
+    border-radius: 5px;
+}
